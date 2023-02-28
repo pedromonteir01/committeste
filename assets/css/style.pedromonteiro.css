@@ -1,4 +1,15 @@
 form {
     display: flex;
     flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+input {
+    margin: 30px;
+    border: solid 2px blue;
+}
+
+#submit:hover {
+    background-color: aqua;
 }
